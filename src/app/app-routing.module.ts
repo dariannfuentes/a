@@ -8,7 +8,7 @@ import { RouterModule, Routes } from '@angular/router';
 
 
 const routes: Routes = [
-  {path:"componente1",component:Componente1Component},
+  {path:"",component:Componente1Component},
   {path:"componente2",component:Componente2Component},
   {path:"componente3",component:Componente3Component},
   {path:"componente4",component:Componente4Component},
